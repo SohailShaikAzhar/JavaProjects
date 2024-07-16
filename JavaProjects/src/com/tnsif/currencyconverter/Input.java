@@ -7,5 +7,7 @@ public class Input
 //    	JFrame frame = new JFrame();    //creates a frame
     	
     	Child myFrame = new Child();
+    	
+    	
 	}
 }
